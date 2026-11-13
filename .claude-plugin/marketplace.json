@@ -1,0 +1,7 @@
+{
+  "name": "allium-tburny",
+  "owner": { "name": "Tobias Brennecke" },
+  "plugins": [
+    { "name": "allium", "source": "./", "description": "Allium plugin with the open pull requests juxt/allium#83, #84, #85 and #86 applied." }
+  ]
+}
